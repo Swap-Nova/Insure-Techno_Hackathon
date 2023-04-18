@@ -5,11 +5,11 @@ import {images} from '../../assets/images';
 // import imageUpload from '../../assets/upload/imageUpload';
 // import { BrowserRouter as Router,Route,Routes } from 'react-router-dom';
 
-import { useNavigate } from 'react-router-dom';
+// import { useNavigate } from 'react-router-dom';
 
 const Banner = () => { 
 
-    const navigate = useNavigate();
+    // const navigate = useNavigate();
 
     return(
         <div>
@@ -23,10 +23,15 @@ const Banner = () => {
                     <div className="title">
                         <h2 className="title1">Know about the <br /> damage status of your car!</h2>
                     </div>
-                    <div className="button">
-                        <button onClick={()=>navigate("/predict")} className='btn'>How do we Work? Just upload image!</button>
+                    {/* <div className="button"> */}
+                        {/* <button onClick={()=>navigate("/predict")} className='btn'>How do we Work? Just upload image!</button> */}
                         {/* <button onClick={()=>navigate("/predict")} className="btn">Work</button> */}
-                    </div>
+                    {/* </div> */}
+                    <button className='button'>
+                        <h3>
+                            <a href="http:localhost:8501" className='link'>How do we work?<br></br>Just upload Image!</a>
+                        </h3>
+                    </button>
                 </div>
             </div>
         </div>
