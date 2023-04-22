@@ -23,6 +23,14 @@
  
 ## Preview of the car-damage anaylsis and components life-span:
 
+* Car Component:
+<img width="700" src="https://user-images.githubusercontent.com/92979885/233771136-b1ca5a77-90fc-4907-9525-0fafb0290f43.jpeg">
+
+* Tire Thread:
+<img width="700" src="https://user-images.githubusercontent.com/92979885/233771155-3fbcf16d-8b59-4360-8c3c-3a9dc13a5572.jpeg">
+
+* Oil Life-span:
+<img width="700" src="https://user-images.githubusercontent.com/92979885/233771156-97507efe-813d-49cc-aa4b-b5d8ade4fbc7.jpeg">
 
 ## Preview of the webpage:
 <img width="1469" alt="Screenshot 2023-04-19 at 11 28 55 AM" src="https://user-images.githubusercontent.com/92979885/232980297-3d696921-b474-438e-be4b-fb2d138ea171.png">
